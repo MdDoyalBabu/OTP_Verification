@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "989908825974",
+    "project_id": "otpverification-4d8d4",
+    "storage_bucket": "otpverification-4d8d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989908825974:android:c1d64763b9e851a2e66c57",
+        "android_client_info": {
+          "package_name": "com.example.otpverification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989908825974-2ernocck62ggf2fp6dedlm7ghvd70l8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeuBCp9Wn0nqaYgCGec7H7W0pNlcyw8mA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989908825974-2ernocck62ggf2fp6dedlm7ghvd70l8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OTPVerification</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="will_number">We Well send your an one Time Password on this mobile number</string>
+    <string name="enter_otp_sent_to">Enter OTP sent to</string>
+    <string name="_1744431962">-1744431962</string>
+    <string name="number">01744431962</string>
+</resources>
